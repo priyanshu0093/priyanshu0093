@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/profile.png" width="150" alt="Priyanshu Kumawat"/>
-
 # 👋 Hi, I'm Priyanshu Kumawat
 
 ### Full Stack Developer · MERN · Backend & API Development
