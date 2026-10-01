@@ -44,7 +44,7 @@ I'm a **Full Stack Developer** focused on building modern web applications using
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
 ### 🔹 Full Stack Developer Intern — Kiaan Technology
 
@@ -81,7 +81,7 @@ Working on **Aayojan**, an event-management platform.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,c" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c" />
 
 </div>
 
@@ -111,7 +111,7 @@ Working on **Aayojan**, an event-management platform.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,prisma,drizzle" />
 
 </div>
 
@@ -172,11 +172,17 @@ A full-stack job portal supporting multiple user roles and the complete job-appl
 <div align="center">
 
 <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+
 <img src="https://img.shields.io/badge/OOP-111827?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/DBMS-111827?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+
 <img src="https://img.shields.io/badge/RBAC-111827?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge" />
 
 </div>
