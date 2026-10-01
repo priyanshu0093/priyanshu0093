@@ -218,35 +218,11 @@ A full-stack job portal supporting multiple user roles and the complete job-appl
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=priyanshu0093&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
-  alt="GitHub Statistics"
-/>
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu0093&layout=compact&hide_border=true&theme=tokyonight"
-  alt="Top Languages"
-/>
-
-<br/>
-<br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=priyanshu0093&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</div>
 
 ---
 
 # 🏆 Achievements
+<div align="center">
 
 | 🏅 Achievement | 📌 Details |
 |---|---|
@@ -276,11 +252,11 @@ A full-stack job portal supporting multiple user roles and the complete job-appl
 <div align="center">
 
 ```text
-Frontend        → React / Next.js / Redux / Tailwind
-Backend         → Node.js / Express.js / REST APIs
-Databases       → MongoDB / MySQL / PostgreSQL / Supabase
-ORM             → Prisma / Drizzle
-Authentication  → JWT / OTP
-Authorization   → RBAC / Permission-based Access
-Realtime        → Socket.IO
+Frontend → React / Next.js / Redux / Tailwind
+Backend → Node.js / Express.js / REST APIs
+Databases → MongoDB / MySQL / PostgreSQL / Supabase
+ORM → Prisma / Drizzle
+Authentication → JWT / OTP
+Authorization → RBAC / Permission-based Access
+Realtime → Socket.IO
 Problem Solving → Data Structures & Algorithms
